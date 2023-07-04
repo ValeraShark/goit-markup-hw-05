@@ -366,6 +366,7 @@ padding-bottom: 120px;
 .clients-title {
         font-size: 36px;
         line-height: 1.11;
+        text-align: center;
         color: var(--title-color);      
         margin-bottom: 72px;
 }
