@@ -288,7 +288,7 @@ img {display: block;}
         color: #2E2F42;
 }
 
-.team {
+.team-list {
 display: flex;
         gap: 24px;
 }
