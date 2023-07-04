@@ -516,7 +516,7 @@ padding-bottom: 120px;
 }
 
 /** -------------------FooterContinue---------------- */
-.footer-forma {margin-left: 80px;}
+.footer-forma {margin-left: auto;}
 
 .footer-form-text {
   font-weight: 500;
