@@ -289,7 +289,7 @@ img {display: block;}
         color: #2E2F42;
 }
 
-.team-list {
+.teams list {
 display: flex;
         gap: 24px;
 }
