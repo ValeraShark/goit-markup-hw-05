@@ -253,6 +253,7 @@ img {display: block;}
 }
 
 .electronica-title {
+        padding-top: 0;
         margin-bottom: 72px;
         font-weight: 700;
         font-size: 36px;
