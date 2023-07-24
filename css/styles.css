@@ -767,6 +767,7 @@ padding-bottom: 120px;
 }
 
 .modal {
+        padding: 72px 24px 24px 24px;
         position: absolute;
         top: 50%;
         left: 50%;
@@ -820,7 +821,6 @@ padding-bottom: 120px;
         line-height: 1.5;
         text-align: center;
         letter-spacing: 0.02em;
-        margin-top: 72px;
         margin-bottom: 16px;
         color: var(--title-color);
 }
