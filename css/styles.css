@@ -942,7 +942,10 @@ border-color: #4d5ae5;
         fill: transparent;
 }
 
-.checkbox-svg {}
+.checkbox-svg:hover {
+        background-color: #404bbf;
+        border: none;
+}
 
 .privacy-label {
         font-size: 12px;
